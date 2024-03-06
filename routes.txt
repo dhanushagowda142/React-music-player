@@ -1,0 +1,17 @@
+Rules related to Readme.md file
+
+# -> h1 tag
+## ->h2 tag
+### -> h3 tag
+
+** -> important note
+
+`commands` -> commands
+
+paragraph content(no tab space)
+   blockquote content(one tab space)
+
+[title](https:://link.com) -> a tag
+
+\ -> line break
+README.md -> is a instruction file
